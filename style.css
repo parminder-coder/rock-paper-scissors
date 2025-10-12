@@ -1,0 +1,17 @@
+.title{
+    display:flex;
+    gap:500px;
+    justify-content: center;
+    align-items: center;
+}
+
+.choice{
+    display:flex;
+    gap:300px;
+    justify-content:center;
+    align-items: center;
+}
+
+#round{
+    text-align: center;
+}
